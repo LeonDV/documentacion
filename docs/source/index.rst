@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   Procedimientos de laboratorio
+   cadena_de_frio
    Procedimientos de entrega
