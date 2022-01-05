@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Daimob docs'
+project = 'Daimob Group'
 copyright = '2022, Daimob Group S.A.S.'
 author = 'León Valderrama'
 
