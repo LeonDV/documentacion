@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T20:52:28.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oQWEOZerj6CG2DxOC1QM" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-15T20:57:40.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NotZiB63neE6WvhmSNma" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
-    <mxGraphModel dx="3412" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3987" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y1gLRwEpjePrzFJidSWK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y1gLRwEpjePrzFJidSWK-4" target="y1gLRwEpjePrzFJidSWK-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-4" target="y1PfEQ1NS_R_pBmvr7h7-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Desconocimiento de tecnología y cómo llevar BPA al mundo digital" lucidchartObjectId="50w0yAb6vamF" id="y1gLRwEpjePrzFJidSWK-4">
@@ -18,9 +21,6 @@
           </mxCell>
         </UserObject>
         <mxCell id="y1gLRwEpjePrzFJidSWK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y1gLRwEpjePrzFJidSWK-6" target="y1gLRwEpjePrzFJidSWK-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y1gLRwEpjePrzFJidSWK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y1gLRwEpjePrzFJidSWK-6" target="y1gLRwEpjePrzFJidSWK-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Sin energía Eléctrica de calidad" lucidchartObjectId="5vx0oRoR8o8n" id="y1gLRwEpjePrzFJidSWK-6">
@@ -63,11 +63,6 @@
         <UserObject label="Energía intermitente y de mala calidad" lucidchartObjectId="NCx0BWLgL4xI" id="y1gLRwEpjePrzFJidSWK-11">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="257" y="1345" width="120" height="98" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Instalaciones eléctricas costosas" lucidchartObjectId="4Cx04Yee_8mW" id="y1gLRwEpjePrzFJidSWK-12">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="257" y="1479" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Sin posibilidad de medir" lucidchartObjectId="gDx0V2t9FzL9" id="y1gLRwEpjePrzFJidSWK-13">
@@ -318,7 +313,7 @@
           <mxGeometry width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1530" y="1180" width="360" height="140" as="geometry" />
+          <mxGeometry x="1445" y="1180" width="360" height="140" as="geometry" />
         </mxCell>
         <UserObject label="Diseño de un sistema fotovoltaico para alimentación de transmisores y receptores LoRa" lucidchartObjectId="eTw0P9RpFLN8" id="y1PfEQ1NS_R_pBmvr7h7-2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#ffffff;fontStyle=1;align=center;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4c535d;strokeWidth=2.3;" vertex="1" parent="y1PfEQ1NS_R_pBmvr7h7-1">
@@ -333,14 +328,14 @@
         </mxCell>
         <UserObject label="Construcción de transmisores, receptores y montaje de plataforma web" lucidchartObjectId="eTw0P9RpFLN8" id="y1PfEQ1NS_R_pBmvr7h7-6">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#ffffff;fontStyle=1;align=center;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4c535d;strokeWidth=2.3;" vertex="1" parent="y1PfEQ1NS_R_pBmvr7h7-5">
-            <mxGeometry x="30" y="30" width="330" height="110" as="geometry" />
+            <mxGeometry x="-111" y="30" width="330" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-7" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=20;fillColor=#000099;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="y1PfEQ1NS_R_pBmvr7h7-5">
-          <mxGeometry width="50" height="50" as="geometry" />
+          <mxGeometry x="-141" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2400" y="1180" width="360" height="140" as="geometry" />
+          <mxGeometry x="2221" y="1180" width="360" height="140" as="geometry" />
         </mxCell>
         <UserObject label="Divulgación" lucidchartObjectId="eTw0P9RpFLN8" id="y1PfEQ1NS_R_pBmvr7h7-9">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#ffffff;fontStyle=1;align=center;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4c535d;strokeWidth=2.3;" vertex="1" parent="y1PfEQ1NS_R_pBmvr7h7-8">
@@ -349,6 +344,67 @@
         </UserObject>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-10" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=20;fillColor=#000099;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="y1PfEQ1NS_R_pBmvr7h7-8">
           <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="No llevan registro de datos" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-11">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="47" y="1471" width="120" height="98" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Diseño de equipos" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1220" y="1345" width="170" height="98" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Diseño de plataforma web" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-16">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1220" y="1475" width="170" height="98" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="tcq9eheMqiFbFkC54EQU-1" target="y1PfEQ1NS_R_pBmvr7h7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="tcq9eheMqiFbFkC54EQU-1" target="y1PfEQ1NS_R_pBmvr7h7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Diseño de sistema fotovoltaico" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-20">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1595" y="1345" width="170" height="98" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-2" target="y1PfEQ1NS_R_pBmvr7h7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Construcción de sensores y receptores LoRA" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-23">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1980" y="1349" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Construcción de plataforma web" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-24">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1980" y="1471" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Visitas técnicas para control de calidad" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-25">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="1980" y="1596" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-6" target="y1PfEQ1NS_R_pBmvr7h7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-6" target="y1PfEQ1NS_R_pBmvr7h7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-6" target="y1PfEQ1NS_R_pBmvr7h7-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Evento de divulgación" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-29">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="2370" y="1349" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-9" target="y1PfEQ1NS_R_pBmvr7h7-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
