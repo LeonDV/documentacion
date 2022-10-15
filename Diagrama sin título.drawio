@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T22:52:42.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Lh04vOXyyqZ5pyIS10yO" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-15T22:56:27.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7zdj8O0eYmWwC5RTTwvG" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
-    <mxGraphModel dx="3201" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,9 +38,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1gLRwEpjePrzFJidSWK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="y1gLRwEpjePrzFJidSWK-7" target="y1gLRwEpjePrzFJidSWK-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-7" target="y1PfEQ1NS_R_pBmvr7h7-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Poca o nula implementación de tecnología" lucidchartObjectId="uwx0kRfbo4vk" id="y1gLRwEpjePrzFJidSWK-7">
@@ -81,7 +78,7 @@
         </UserObject>
         <UserObject label="Sin posiblidad de comparar calidad cuando se implementan BPA" lucidchartObjectId="NDx0eiq1Wggg" id="y1gLRwEpjePrzFJidSWK-14">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="467" y="1720" width="120" height="158" as="geometry" />
+            <mxGeometry x="467" y="1600" width="120" height="158" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Preferencia culturar por procedimientos empíricos" lucidchartObjectId="iGx0gmcVgOEP" id="y1gLRwEpjePrzFJidSWK-21">
@@ -255,8 +252,8 @@
         </mxCell>
         <mxCell id="ZrvnaW-O_str4oIsPL8D-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="1900" as="sourcePoint" />
-            <mxPoint x="-330" y="1900" as="targetPoint" />
+            <mxPoint x="1000" y="1780" as="sourcePoint" />
+            <mxPoint x="-330" y="1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZrvnaW-O_str4oIsPL8D-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
@@ -393,18 +390,10 @@
             <mxGeometry x="1980" y="1471" width="200" height="90" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Visitas técnicas para control de calidad" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-25">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
-            <mxGeometry x="1980" y="1720" width="200" height="90" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-6" target="y1PfEQ1NS_R_pBmvr7h7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-6" target="y1PfEQ1NS_R_pBmvr7h7-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-6" target="y1PfEQ1NS_R_pBmvr7h7-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Evento de divulgación" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-29">
@@ -435,9 +424,9 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;EFECTOS INDIRECTOS&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-320" y="790" width="190" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Capacitación de uso de equipos en fincas del proyecto (2)" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-40">
+        <UserObject label="Capacitación y acompañamiento tecnológica de uso de equipos en fincas del proyecto (2)" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-40">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
-            <mxGeometry x="2370" y="1475" width="200" height="90" as="geometry" />
+            <mxGeometry x="2370" y="1475" width="200" height="145" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-9" target="y1PfEQ1NS_R_pBmvr7h7-40">
@@ -451,14 +440,9 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-6" target="y1PfEQ1NS_R_pBmvr7h7-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="CAUSA" lucidchartObjectId="3Bx0pORC3kEz" id="y1PfEQ1NS_R_pBmvr7h7-45">
+        <UserObject label="Desconocimiento del uso de la tecnología IoT para cacao" lucidchartObjectId="iGx0gmcVgOEP" id="y1PfEQ1NS_R_pBmvr7h7-47">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
-            <mxGeometry x="467" y="1600" width="120" height="90" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="CAUSA!" lucidchartObjectId="iGx0gmcVgOEP" id="y1PfEQ1NS_R_pBmvr7h7-47">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
-            <mxGeometry x="707" y="1471" width="120" height="98" as="geometry" />
+            <mxGeometry x="680" y="1470" width="163" height="129" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Realizar vigilancia tecnológica" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-49">
@@ -469,9 +453,9 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="tcq9eheMqiFbFkC54EQU-1" target="y1PfEQ1NS_R_pBmvr7h7-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Desconocen tecnología actual" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-52">
+        <UserObject label="Desconocen tecnología actual y beneficios de implementar" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-52">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
-            <mxGeometry x="47" y="1360" width="120" height="98" as="geometry" />
+            <mxGeometry x="47" y="1340" width="120" height="118" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
