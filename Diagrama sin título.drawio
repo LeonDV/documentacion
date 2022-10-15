@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T23:14:43.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SMBSQMN0uDYmX96uBloy" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-15T23:15:12.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fIUWoWcq-dx5kdchgUgb" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
     <mxGraphModel dx="3597" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2221" y="1180" width="360" height="140" as="geometry" />
         </mxCell>
-        <UserObject label="Divulgación" lucidchartObjectId="eTw0P9RpFLN8" id="y1PfEQ1NS_R_pBmvr7h7-9">
+        <UserObject label="Fortalecimiento de conocimiento regional en el uso de IoT para el sector agropecuario" lucidchartObjectId="eTw0P9RpFLN8" id="y1PfEQ1NS_R_pBmvr7h7-9">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#ffffff;fontStyle=1;align=center;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4c535d;strokeWidth=2.3;" vertex="1" parent="y1PfEQ1NS_R_pBmvr7h7-8">
             <mxGeometry x="30" y="30" width="330" height="110" as="geometry" />
           </mxCell>
