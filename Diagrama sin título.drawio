@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T22:32:19.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="IItA0TbI63cqwNAI0-Md" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-15T22:36:17.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vh3JlN9xE1FtiqFAZFZo" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
     <mxGraphModel dx="2782" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,6 +425,14 @@
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;EFECTOS INDIRECTOS&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-320" y="790" width="190" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Capacitación de uso de equipos en fincas del proyecto (2)" lucidchartObjectId="gDx0V2t9FzL9" id="y1PfEQ1NS_R_pBmvr7h7-40">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="2370" y="1475" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-9" target="y1PfEQ1NS_R_pBmvr7h7-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
