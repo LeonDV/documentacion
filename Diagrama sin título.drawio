@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T16:18:29.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gu-w4jgylxU-pmWK9TfN" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T16:24:10.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yIPmqUuGGO3DQLa5so9W" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
-    <mxGraphModel dx="3671" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,7 +311,7 @@
           <mxGeometry x="600" y="1200" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tcq9eheMqiFbFkC54EQU-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1061" y="1180" width="360" height="140" as="geometry" />
+          <mxGeometry x="1061" y="1180" width="360" height="150" as="geometry" />
         </mxCell>
         <UserObject label="&amp;nbsp;Diseño de sensores, transmisores LoRa y plataforma web de procesamiento, almacenamiento y visualización" lucidchartObjectId="eTw0P9RpFLN8" id="tcq9eheMqiFbFkC54EQU-1">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#ffffff;fontStyle=1;align=center;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4c535d;strokeWidth=2.3;" parent="tcq9eheMqiFbFkC54EQU-3" vertex="1">
@@ -320,6 +320,9 @@
         </UserObject>
         <mxCell id="tcq9eheMqiFbFkC54EQU-2" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=20;fillColor=#000099;strokeColor=none;fontColor=#FFFFFF;" parent="tcq9eheMqiFbFkC54EQU-3" vertex="1">
           <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" vertex="1" parent="tcq9eheMqiFbFkC54EQU-3">
+          <mxGeometry x="19" y="130" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1445" y="1180" width="360" height="140" as="geometry" />
@@ -575,6 +578,9 @@
         </mxCell>
         <mxCell id="Dnhiyiwgh37lcLuEltPn-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="620" y="900" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1340" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
