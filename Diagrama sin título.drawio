@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T18:52:56.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xr7EtrOPvpiu8Psx1GJI" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T18:54:56.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xvT39HyaZDD7UNJm68vX" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
-    <mxGraphModel dx="4382" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,26 +273,71 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="coSBztETCC4YgNPQrmp3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-35" target="y1PfEQ1NS_R_pBmvr7h7-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="17" y="560" />
+              <mxPoint x="1255" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Procesos desiguales sin estándar" lucidchartObjectId="TUx0KD6sIN2B" id="y1gLRwEpjePrzFJidSWK-35">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#008a0e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="-43" y="778" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="coSBztETCC4YgNPQrmp3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-36" target="y1PfEQ1NS_R_pBmvr7h7-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="282" y="540" />
+              <mxPoint x="1635" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Daño de equipos mala calidad de energía" lucidchartObjectId="XUx0ePm0GKDe" id="y1gLRwEpjePrzFJidSWK-36">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#008a0e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="208" y="778" width="147" height="90" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="coSBztETCC4YgNPQrmp3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-37" target="y1PfEQ1NS_R_pBmvr7h7-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="823" />
+              <mxPoint x="590" y="520" />
+              <mxPoint x="1800" y="520" />
+              <mxPoint x="1800" y="787" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="No cumple norma técnica NTC1252 y baja ingresos" lucidchartObjectId="1Ux0ggHsKn-0" id="y1gLRwEpjePrzFJidSWK-37">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#008a0e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="418" y="778" width="153" height="90" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="coSBztETCC4YgNPQrmp3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5jBU4jL0vWlWmlJcorjr-1" target="y1PfEQ1NS_R_pBmvr7h7-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="823" />
+              <mxPoint x="790" y="460" />
+              <mxPoint x="2210" y="460" />
+              <mxPoint x="2210" y="736" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Sin evolución ni mejoramiento de procesos" lucidchartObjectId="1Ux0ggHsKn-0" id="5jBU4jL0vWlWmlJcorjr-1">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#008a0e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="628" y="778" width="137" height="90" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="coSBztETCC4YgNPQrmp3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5jBU4jL0vWlWmlJcorjr-3" target="y1PfEQ1NS_R_pBmvr7h7-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="703" />
+              <mxPoint x="580" y="500" />
+              <mxPoint x="2015" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Envejecimiento del campo por abandono" lucidchartObjectId="1Ux0ggHsKn-0" id="5jBU4jL0vWlWmlJcorjr-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#008a0e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="418" y="658" width="143" height="90" as="geometry" />
@@ -819,6 +864,14 @@
         </mxCell>
         <mxCell id="Dnhiyiwgh37lcLuEltPn-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="1880" y="710" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="coSBztETCC4YgNPQrmp3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="coSBztETCC4YgNPQrmp3-1" target="coSBztETCC4YgNPQrmp3-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="480" />
+              <mxPoint x="2385" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="Región sin desarrollo de tecnologías IoT para el agro" lucidchartObjectId="1Ux0ggHsKn-0" id="coSBztETCC4YgNPQrmp3-1">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#008a0e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="1">
