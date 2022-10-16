@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T18:57:43.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VgvDUDUP-3cwyBvrMasZ" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T19:12:07.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LRqUxT_AjSmUeq5485HY" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
     <mxGraphModel dx="2858" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,12 +517,12 @@
             <mxGeometry x="47" y="1609" width="120" height="98" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Diseño de equipos" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-15">
+        <UserObject label="Diseño de equipos&lt;br&gt;15/02/2023 - 31/03/2023" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-15">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="1220" y="1469" width="170" height="98" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Diseño de plataforma web" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-16">
+        <UserObject label="Diseño de plataforma web&lt;br&gt;20/02/2023 - 30/04/2023" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-16">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="1220" y="1599" width="170" height="98" as="geometry" />
           </mxCell>
@@ -533,7 +533,7 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FFFFFF;" parent="1" source="tcq9eheMqiFbFkC54EQU-1" target="y1PfEQ1NS_R_pBmvr7h7-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Diseño de sistema fotovoltaico" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-20">
+        <UserObject label="Diseño de sistema fotovoltaico&lt;br&gt;01/04/2023 - 15/04/2023&lt;br&gt;" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-20">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="1595" y="1345" width="170" height="98" as="geometry" />
           </mxCell>
@@ -628,7 +628,7 @@
             <mxGeometry x="680" y="1470" width="163" height="129" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Realizar vigilancia tecnológica" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-49">
+        <UserObject label="Realizar vigilancia tecnológica&lt;br&gt;01/02/2023 - 01/03/2023&lt;br&gt;" lucidchartObjectId="GBx0LkfUUHu6" id="y1PfEQ1NS_R_pBmvr7h7-49">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="1220" y="1345" width="170" height="98" as="geometry" />
           </mxCell>
