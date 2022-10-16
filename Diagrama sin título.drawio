@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T18:06:26.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="66r78GOPfuWqm4U-i7FL" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T18:10:55.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Hkyf6SEb7P2BK1nWAeNq" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
-    <mxGraphModel dx="4382" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,23 +603,29 @@
             <mxGeometry x="47" y="1340" width="120" height="118" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Dnhiyiwgh37lcLuEltPn-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-54" target="y1PfEQ1NS_R_pBmvr7h7-58">
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-54" target="y1PfEQ1NS_R_pBmvr7h7-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-54" value="Esquemas de circuito, Firmware y desarrollo de software para apliaciones web de plataforma IoT" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="1130" y="868" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Dnhiyiwgh37lcLuEltPn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-55" target="y1PfEQ1NS_R_pBmvr7h7-59">
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-55" target="y1PfEQ1NS_R_pBmvr7h7-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-55" value="Sistema fotovoltaico funcional que soporta operación de infraestructura instalada" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="1510" y="868" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Dnhiyiwgh37lcLuEltPn-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-56" target="y1PfEQ1NS_R_pBmvr7h7-60">
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-56" target="y1PfEQ1NS_R_pBmvr7h7-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-56" target="y1PfEQ1NS_R_pBmvr7h7-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-56" value="2 termómetros, 2 termohigrómetros, 2 termohigrómetros con UV, 2 receptores y 1 plataforma" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="1890" y="868" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-57" target="y1PfEQ1NS_R_pBmvr7h7-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-57" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="2270" y="868" width="250" height="130" as="geometry" />
@@ -630,14 +636,14 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-59" value="Uso de energías renovables en entorno agrícola. Garantiza funcionamiento de infraestructura" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1510" y="680" width="250" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-60" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-60" value="Cumple la norma NTC1252 y venden a mejor precio" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1890" y="710" width="250" height="103" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-61" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1890" y="570" width="250" height="98" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-62" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2270" y="753" width="120" height="60" as="geometry" />
+          <mxGeometry x="2270" y="710" width="250" height="103" as="geometry" />
         </mxCell>
         <mxCell id="Dnhiyiwgh37lcLuEltPn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#0000FF;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-63" target="y1PfEQ1NS_R_pBmvr7h7-65">
           <mxGeometry relative="1" as="geometry">
