@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T16:15:20.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5-CeSjJaNpvZKbUqOoE_" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T16:17:00.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lZHdcK49UkefEmLJ_vZP" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
     <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -569,6 +569,9 @@
         </mxCell>
         <mxCell id="Dnhiyiwgh37lcLuEltPn-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="404" y="790" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1029" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
