@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T17:36:09.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ktnf8RHYE3m0oNGzH557" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T17:45:50.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iMUJ2-ymJx5PDvqJ5fXc" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
-    <mxGraphModel dx="3671" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -577,8 +577,14 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-54" value="Esquemas de circuito, Firmware y desarrollo de software para apliaciones web de plataforma IoT" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="1130" y="868" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-55" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-55" target="y1PfEQ1NS_R_pBmvr7h7-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-55" value="Sistema fotovoltaico funcional que soporta operación de infraestructura instalada" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="1510" y="868" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF00FF;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1PfEQ1NS_R_pBmvr7h7-56" target="y1PfEQ1NS_R_pBmvr7h7-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-56" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="1890" y="868" width="250" height="130" as="geometry" />
@@ -589,14 +595,14 @@
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-58" value="Impacto tecnológico. Nuevas tecnologías IoT para fermentación y secado" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1130" y="710" width="250" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-59" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="753" width="120" height="60" as="geometry" />
+        <mxCell id="y1PfEQ1NS_R_pBmvr7h7-59" value="Uso de energías renovables en entorno agrícola. Garantiza funcionamiento de infraestructura" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="680" width="250" height="133" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-60" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="753" width="120" height="60" as="geometry" />
+          <mxGeometry x="1890" y="710" width="250" height="103" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-61" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="658" width="120" height="60" as="geometry" />
+          <mxGeometry x="1890" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1PfEQ1NS_R_pBmvr7h7-62" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FF8000;fontSize=20;fontColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2270" y="753" width="120" height="60" as="geometry" />
@@ -752,6 +758,9 @@
         </mxCell>
         <mxCell id="Dnhiyiwgh37lcLuEltPn-84" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="1120" y="868" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=default;strokeColor=#33FF33;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="868" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
