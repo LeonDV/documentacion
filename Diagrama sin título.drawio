@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T16:53:17.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WNLWoef56svnKcdBmE2k" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T16:54:45.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="n6-FPZG9YwrzqoZDYful" version="20.4.1" type="github" pages="2">
   <diagram id="nxbP9ufkAd6UfLEAyTEt" name="Arbol de problemas">
     <mxGraphModel dx="3671" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,17 @@
             <mxGeometry x="47" y="1483" width="120" height="98" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-10" target="y1PfEQ1NS_R_pBmvr7h7-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="1580" />
+              <mxPoint x="440" y="1580" />
+              <mxPoint x="440" y="1970" />
+              <mxPoint x="1820" y="1970" />
+              <mxPoint x="1820" y="1539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Sin posiblidad de trazabilidad" lucidchartObjectId="3Bx0pORC3kEz" id="y1gLRwEpjePrzFJidSWK-10">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="467" y="1471" width="120" height="90" as="geometry" />
@@ -92,11 +103,30 @@
             <mxGeometry x="257" y="1345" width="120" height="98" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-13" target="y1PfEQ1NS_R_pBmvr7h7-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="1450" />
+              <mxPoint x="420" y="1450" />
+              <mxPoint x="420" y="1990" />
+              <mxPoint x="1800" y="1990" />
+              <mxPoint x="1800" y="1417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Sin posibilidad de medir" lucidchartObjectId="gDx0V2t9FzL9" id="y1gLRwEpjePrzFJidSWK-13">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="467" y="1345" width="120" height="90" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Dnhiyiwgh37lcLuEltPn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="y1gLRwEpjePrzFJidSWK-14" target="y1PfEQ1NS_R_pBmvr7h7-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="527" y="1950" />
+              <mxPoint x="2080" y="1950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Sin posiblidad de comparar calidad cuando se implementan BPA" lucidchartObjectId="NDx0eiq1Wggg" id="y1gLRwEpjePrzFJidSWK-14">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#1071e5;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="467" y="1600" width="120" height="158" as="geometry" />
