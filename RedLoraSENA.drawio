@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T01:44:20.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="E1IKSiYIg090gJhhNrAG" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T01:52:51.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HYu4IBjhx6QLGvy04Jk4" version="20.5.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="1913" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,14 +21,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NjwTReQdosU8l-BSkDYV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fontSize=27;" edge="1" parent="1" source="NjwTReQdosU8l-BSkDYV-2" target="NjwTReQdosU8l-BSkDYV-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="514" />
-              <mxPoint x="430" y="546" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NjwTReQdosU8l-BSkDYV-2" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
           <mxGeometry x="480" y="453.57" width="80" height="80" as="geometry" />
         </mxCell>
@@ -37,9 +29,6 @@
         </mxCell>
         <mxCell id="NjwTReQdosU8l-BSkDYV-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="295" y="510.56999999999994" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="NjwTReQdosU8l-BSkDYV-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="295" y="540.5699999999999" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NjwTReQdosU8l-BSkDYV-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2426/2426702.png;" vertex="1" parent="1">
           <mxGeometry x="220" y="488.57" width="52" height="52" as="geometry" />
@@ -54,7 +43,10 @@
           <mxGeometry x="143" y="150" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NjwTReQdosU8l-BSkDYV-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;strokeWidth=3;fontSize=27;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="690" width="454" height="380" as="geometry" />
+          <mxGeometry x="120" y="211.14999999999998" width="454" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.037;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fontSize=20;fontColor=#CC6600;strokeColor=default;startArrow=classic;startFill=1;" edge="1" parent="1" source="NjwTReQdosU8l-BSkDYV-17" target="NjwTReQdosU8l-BSkDYV-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NjwTReQdosU8l-BSkDYV-17" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_off_128x128.png;strokeColor=#FF8000;strokeWidth=3;fontSize=27;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="345" width="80" height="80" as="geometry" />
@@ -64,6 +56,57 @@
             <mxPoint x="610" y="310" as="sourcePoint" />
             <mxPoint x="680" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;fontSize=27;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NjwTReQdosU8l-BSkDYV-2" target="NjwTReQdosU8l-BSkDYV-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="426" y="288" as="sourcePoint" />
+            <mxPoint x="787.5999999999999" y="384.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-26" value="Transmisión Inalámbrica&lt;br&gt;LoRa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=1;fontSize=20;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="565" y="288" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fontSize=20;fontColor=#CC6600;startArrow=classic;startFill=1;" edge="1" parent="1" source="NjwTReQdosU8l-BSkDYV-28" target="NjwTReQdosU8l-BSkDYV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-28" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;strokeColor=#FF8000;strokeWidth=3;fontSize=20;fontColor=#CC6600;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="338" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-30" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png;strokeColor=#FF8000;strokeWidth=3;fontSize=20;fontColor=#CC6600;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="320" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;fontSize=20;fontColor=#CC6600;startArrow=classic;startFill=1;" edge="1" parent="1" source="NjwTReQdosU8l-BSkDYV-32" target="NjwTReQdosU8l-BSkDYV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-32" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;strokeColor=#FF8000;strokeWidth=3;fontSize=20;fontColor=#CC6600;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;fontSize=20;fontColor=#CC6600;startArrow=classic;startFill=1;" edge="1" parent="1" source="NjwTReQdosU8l-BSkDYV-33" target="NjwTReQdosU8l-BSkDYV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-33" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png;strokeColor=#FF8000;strokeWidth=3;fontSize=20;fontColor=#CC6600;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="540.5699999999999" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-36" value="Gateway LoRa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="433.57" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-37" value="Termómetro LoRa 2 sondas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="600" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-38" value="Termohigrómetro LoRa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="163.5" y="360" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-40" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;strokeColor=#FF8000;strokeWidth=3;fontSize=20;fontColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="295" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-41" value="Transmisión Inalámbrica&lt;br&gt;LoRa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=1;fontSize=20;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="565" y="505.57" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-42" value="Wifi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=1;fontSize=20;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="750" y="345" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjwTReQdosU8l-BSkDYV-43" value="Router 4G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="825" y="300" width="295" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
